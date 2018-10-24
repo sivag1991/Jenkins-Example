@@ -10,7 +10,7 @@ pipeline {
 		
 		stage('testing stage') {
 			steps {
-			bat 'mvn test'
+			bat 'mvn test -Dcucumber.options="src/test/resources/belly.feature'
 			}
 		}
 	}
