@@ -1,2 +1,3 @@
 com\sample\spark\spark_java_eaxmple\AppTest.class
+com\sample\spark\spark_java_eaxmple\StepDefinitions.class
 com\sample\spark\spark_java_eaxmple\RunCukesTest.class
